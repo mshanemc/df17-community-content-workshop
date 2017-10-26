@@ -1,0 +1,8 @@
+{
+    "orgName": "obs",
+    "edition": "Developer",
+    "features" : "Communities",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled", "NetworksEnabled"]
+    }
+}
